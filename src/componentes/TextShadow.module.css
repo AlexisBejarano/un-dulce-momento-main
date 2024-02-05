@@ -1,0 +1,7 @@
+.textShadow_black {
+    text-shadow: 0 0 0.1em rgb(107, 107, 107);
+}
+
+.textShadow_lite {
+    text-shadow: 0 0 0.1em rgb(167, 167, 167);
+}

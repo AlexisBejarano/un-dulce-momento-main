@@ -1,0 +1,342 @@
+[
+  {
+    "id": "1",
+    "calificacion": "5",
+    "nombre": "Pastel de zanahoria",
+    "descripcion": "",
+    "dificultad": "Facil",
+    "duracion": "Sin definir",
+    "categoria": "Pasteleria",
+    "temporada": "Todo el Año",
+    "autor": "Alondra Garcia",
+    "rendimiento": "12 pax",
+    "metodo de coccion": "Horneado",
+    "ingredientes": [
+      {
+        "ingredientes": [
+          "Aceite",
+          "Zanahoria",
+          "Nuez",
+          "Pasas",
+          "Piña",
+          "Harina integral",
+          "Harina de trigo",
+          "Azucar",
+          "Bicarbonato",
+          "Canela",
+          "Huevo",
+          "Jugo de piña",
+          "Polvo para hornear",
+          "<b>Betun queso crema</b>",
+          "Queso crema",
+          "Chantillye en polvo(Marca Caricia)",
+          "Media crema",
+          "Sustituto de crema"
+        ]
+      },
+      {
+        "gramaje": [
+          "Tz",
+          "Pz",
+          "Tz",
+          "Tz",
+          "Tz",
+          "Tz",
+          "Tz",
+          "Tz",
+          "Cdta",
+          "Cda",
+          "Pz",
+          "Lt",
+          "Cda",
+          " ",
+          "Pz",
+          "Pz",
+          "Pz",
+          "Cda"
+        ]
+      },
+      {
+        "unidad": [
+          "1",
+          "4",
+          "1/2",
+          "1/2",
+          "1/2",
+          "1",
+          "1",
+          "1 1/2",
+          "1",
+          "1",
+          "4",
+          "1",
+          "1",
+          " ",
+          "1 1/2",
+          "1",
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "mise en place": [
+      "Precalentar el horno a 180c",
+      "Pesar los ingredientes",
+      "Pelar y tallar las Zanahorias",
+      "Engrasar el molde"
+    ],
+
+    "preparacion": [
+      "En un tazon colocar la harina, el bicarbonato, polvo para hornear, canela, nuez, zanahoria, piña, pasas e incorporar.",
+      "En otro bowl batir los huevos a velocidad alta agregando el azucar poco a poco y el aceite.",
+      "De manera envolvente juntar las dos mezclas y verter al molde"
+    ],
+    "notas": ["El jugo va a depender de lo espeso que quede."],
+    "glosario": ["SIN GLOSARIO"]
+  },
+  {
+    "id": "2",
+    "calificacion": "5",
+    "nombre": "Pan de Elote",
+    "descripcion": "",
+    "dificultad": "Facil",
+    "duracion": "Sin definir",
+    "categoria": "Postres",
+    "temporada": "Verano",
+    "autor": "Alondra Garcia",
+    "rendimiento": "Sin definir",
+    "metodo de coccion": "Horneado",
+    "ingredientes": [
+      {
+        "ingredientes": [
+          "Elote (No lata)",
+          "Huevos",
+          "Mantequilla",
+          "Harina de trigo",
+          "Polvo para hornear",
+          "Leche condenzada o lechera",
+          "Vainilla",
+          "Leche"
+        ]
+      },
+      { "gramaje": ["Pz", "Pz", "Gr", "Cda", "Cda", "Pz", "Cda", "Tz"] },
+      { "unidad": ["4", "4", "90", "4", "1", "1", "1", "1/4"] }
+    ],
+    "mise en place": [
+      "Desgranar los Elotes",
+      "Precalentar el Horno",
+      "Pesar los ingredientes"
+    ],
+
+    "preparacion": [
+      "Licuar todos los ingredientes",
+      "Verter al molde",
+      "Hornear"
+    ],
+    "notas": ["SIN NOTAS"],
+    "glosario": ["SIN GLOSARIO"]
+  },
+  {
+    "id": "3",
+    "calificacion": "5",
+    "nombre": "Carlota de limón con Philadelphia",
+    "descripcion": "Aprende a preparar uno de los postres más sencillos y deliciosos que existen, un postre muy popular en México y y que traspasa a otros países. Hablamos claro de la Carlota de limón con Philadelphia, un postre delicioso de galleta de vainilla con una salsa de limón y queso crema que simplemente sabe delicioso. Un postre muy fácil de preparar con pocos ingredientes muy fáciles de conseguir.",
+    "dificultad": "Facil",
+    "duracion": "2h 30min",
+    "categoria": "Postres",
+    "temporada": "Verano",
+    "autor": "Alexis Bejarano",
+    "rendimiento": "5 Pax",
+    "metodo de coccion": "Sin definir",
+    "ingredientes": [
+      {
+        "ingredientes": [
+          "Galletas de Vainilla tipo Maria",
+          "Limones",
+          "Queso Philadelphia",
+          "Leche evaporada",
+          "Leche condensada",
+          "Esencia de vainilla",
+          "Llagetas de limon (Opcional)",
+          "Refractario o molde"
+        ]
+      },
+      { "gramaje": ["Pz", "Pz", "Gr", "Ml", "Lata", "Cda", "Pz", " "] },
+      { "unidad": ["3", "12", "180", "380", "1", "1", "2", "1"] }
+    ],
+    "mise en place": ["Sin definir"],
+
+    "preparacion": [
+      "Exprimir limones en el recipiente",
+      "Lleva a la licuadora la leche evaporada, la leche condensada, el queso crema y la vainilla, licúa a una velocidad media hasta que se integren por completo estos ingredientes.",
+      "Con la licuadora encendida y con mucho cuidado, agrega poco a poco el jugo de limón a la mezcla, notarás que comienza a espesarse cada vez más, licúa todo por unos 2 minutos más.",
+      "Cuando tengas la salsa de limón lista, será momento de empezar a montar la carlota de limón con philadelphia. Para ello, en un refractario preferiblemente de vidrio, acomoda una primera capa de las galletas de vainilla tipo María.",
+      "Vierte un poco de salsa de limón y distribuye muy bien, repite el proceso de las capas galleta y salsa hasta que termines con los ingredientes o el refractario se haya llenado. Proporciona pequeños golpecitos para asentar las galletas y la salsa. Luego, lleva al refrigerador mínimo 2 horas y, si lo prefieres, también puedes llevarlo al congelador durante una noche. Si quieres proporcionar una decoración extra, puedes usar rodajas de limón trocitos de galleta de vainilla y un poco de ralladura de limón.",
+      "Pasado el tiempo de reposo de la carlota de limón con Philadelphia, ya lo puedes servir y disfrutar."
+    ],
+    "notas": [
+      "Uno de los mejores ingredientes con el que puedes acompañar este postre de limón con galletas marías y queso Philadelphia es, sin duda, la fruta, en este caso puedes utilizar frutos rojos como la fresa, la frambuesa o las moras, estas últimas combinan muy bien con el sabor de limón y el queso. También puedes acompañar con un poco de crema chantilly casera o crema de mantequilla, añadir a la decoración y utilizar un molde desmoldable y presentar como un pastel."
+    ],
+    "glosario": ["SIN GLOSARIO"]
+  },
+  {
+    "id": "4",
+    "calificacion": "5",
+    "nombre": "Pastel de tamales",
+    "descripcion": "Si quieres disfrutar de los tamales de una forma muy distinta a la tradicional, esta receta de pastel de tamales es la elaboración perfecta para sorprender a tu familia durante la cena. Asimismo, el pastel de tamales lo puedes preparar con tamales que te hayan sobrado de alguna ocasión, aunque si no cuentas con ellos ya preparados, puedes hacer esta receta desde cero, preparando la masa y el relleno al gusto.",
+    "dificultad": "Facil",
+    "duracion": "1h 30m",
+    "categoria": "Comida",
+    "temporada": "Invierno",
+    "autor": "Alexis Bejarano",
+    "rendimiento": "8 Pax",
+    "metodo de coccion": "Horneado",
+    "ingredientes": [
+      {
+        "ingredientes": [
+          "Harina para tamales",
+          "Caldo de pollo",
+          "Manteca vegetal",
+          "Polvo para hornear",
+          "Sal",
+          "Chiles serranos",
+          "Tomates verdes",
+          "Cebolla",
+          "Diente de ajo",
+          "Queso para gratinar",
+          "Pechuga de pollo desmenuzada",
+          "Comino"
+        ]
+      },
+      {
+        "gramaje": [
+          "Gr",
+          "Tz",
+          "Gr",
+          "Cdta",
+          "Pizca",
+          "Pz",
+          "Pz",
+          "Trozo",
+          "Pz",
+          "Gr",
+          "Pz",
+          "Pizca"
+        ]
+      },
+      {
+        "unidad": [
+          "300",
+          "2",
+          "100",
+          "1",
+          "1",
+          "3",
+          "5",
+          "1",
+          "1",
+          "300",
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "mise en place": ["Sin definir"],
+
+    "preparacion": [
+      "Prepara la masa. En un recipiente coloca la harina, la pizca de sal, el polvo para hornear, el caldo de pollo y la manteca vegetal. Debes mezclar para integrar todo, puedes usar una batidora eléctrica o hacerlo manualmente.",
+      "Para el relleno, prepara la salsa, que en este caso será verde, y en una sartén calienta un par de cucharadas de aceite, sofrie los tomates, los chiles, el trozo de cebolla y los dientes de ajo. Estarán listos cuando se vean bien dorados.",
+      "Cuando estén bien dorados los ingredientes para la salsa, lleva a la licuadora con una taza de caldo de pollo, una pizca de sal y pimienta. Licúa hasta que todo esté perfectamente molido y, después, vacía en un recipiente y reserva.",
+      "Para armar el pastel de tamales utiliza un recipiente preferentemente de vidrio o que puedas introducir en el horno. Primero, esparce una capa de masa preparada y, enseguida, agrega una cuchara grande de salsa verde seguido por pollo desmenuzado. Distribuye todo muy bien para que quede bien relleno. Repite el proceso de capas hasta terminar de cubrir todo el recipiente. Al final agrega una capa gruesa de queso, que puede ser Oaxaca, manchego, rallado esto es para que quede una capa de gratinada. También puedes añadir el queso en cada capa del pastel de tamales. Cuando tengas armado el recipiente para el pastel de tamales, es momento de llevar al horno precalentado a 180 °C, hornea por 40 minutos.",
+      "Pasado el tiempo de cocción del pastel de tamales, deja enfriar dentro del horno o a temperatura ambiente. Ahora sí ya puedes disfrutar de un rico pastel de tamales. Anímate a prepararlo en casa de verdad que queda delicioso y con una presentación diferente. ¡A comer! Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final."
+    ],
+    "notas": [
+      "Con qué acompañar el pastel de tamalesPreparar un pastel de tamales nunca había sido tan fácil. Además, como mencionamos al inicio de la receta, la puedes hacer con tamales ya preparados. Asimismo, si decides hacerlo de esta forma, únicamente vas a cortar en trozos pequeños los tamales ya cocidos y, si tienen mucho relleno puedes separar el relleno para que la masa no se combine tanto, vas a licuar los tamales desmoronados con un chorrito de agua para hacer una especie de pasta. Luego, puedes seguir la receta por capas. Por otro lado, el mejor acompañamiento para este pastel de tamales es, sin duda, un rico café de olla, aunque también puedes disfrutar de esta receta con alguna bebida en frío como agua fresca o soda."
+    ],
+    "glosario": ["SIN GLOSARIO"]
+  },
+  {
+    "id": "5",
+    "calificacion": "5",
+    "nombre": "Pan de feria de nuez",
+    "descripcion": "El pan de feria o pan de fiesta de pueblo como también se conoce es una elaboración muy popular en los estados de Puebla y Tlaxcala. Sin embargo, se pueden encontrar en otras regiones de todo México. Su nombre se debe a que este pan suele consumirse durante las fiestas patronales y se encuentra fácilmente en las ferias y, es que una feria sin este rico pan no es una buena feria, se disfruta muchísimo por su rico aroma y su delicioso sabor. Existen muchas variedades de pan de feria, pero los más populares son de sabor nuez, nata y con crema pastelera. En esta ocasión, te enseñamos a preparar un rico pan de feria de nuez.",
+    "dificultad": "Facil",
+    "duracion": "1h 30m",
+    "categoria": "Panaderia",
+    "temporada": "Invierno",
+    "autor": "Alexis Bejarano",
+    "rendimiento": "6 Pax",
+    "metodo de coccion": "Horneado",
+    "ingredientes": [
+      {
+        "ingredientes": [
+          "Harina de trigo",
+          "Azucar",
+          "Leche tibia",
+          "Levadura seca",
+          "Huevo",
+          "Mantequilla",
+          "Sal",
+          "Nuez picada",
+          "Huevo batido para barnizar",
+          "Esencia de nuez o vainilla"
+        ]
+      },
+      {
+        "gramaje": [
+          "Tz",
+          "Gr",
+          "Ml",
+          "Gr",
+          "Pz",
+          "Gr",
+          "Pizca",
+          "Cda",
+          "Pz",
+          "Cda"
+        ]
+      },
+      { "unidad": ["3", "60", "120", "11", "1", "120", "1", "4", "1", "2"] }
+    ],
+    "mise en place": ["Sin definir"],
+
+    "preparacion": [
+      "Hidratar la levadura. Asimismo, coloca en un recipiente la leche tibia, agrega la levadura, una cucharada de azúcar y una cucharada de harina. Mezcla para disolver muy bien y deja reposar en un lugar cálido para que fermente y se haga espumosa.",
+      "En un recipiente amplio coloca la harina de trigo, el azúcar, el huevo y la pizca de sal, mezcla para integrar todo. Puedes hacerlo manualmente o con ayuda de una batidora eléctrica, también puedes hacerlo en una superficie limpia formando una especie de volcán, elige lo que más te convenga.",
+      "Agrega la mantequilla, la esencia de nuez, unas dos cucharadas de nuez picada y la levadura ya fermentada. Mezcla muy bien para integrar todos los ingredientes, puedes hacerlo manualmente o con ayuda de una batidora con gancho.",
+      "Cuando estés amasando notarás que comienza a formarse una masa de textura pegajosa, pero es aquí donde viene uno de los mejores tips para que te quede un pan súper esponjoso. Al principio querrás añadir más harina para llegar a la textura elástica, pero no desesperes que el secreto está en el amasado, un buen amasado de unos 40 minutos a 1 hora será perfecto para tener la mejor masa. Si no quieres hacerlo manualmente puedes usar una batidora de pedestal con gancho, la masa estará lista cuando no se pegue en ninguna superficie y sea elástica y fácil de manejar, una vez lista deja reposar en un lugar cálido para que doble en tamaño.",
+      "Cuando la masa haya reposado y doblado en tamaño, es momento de formar el pan de feria de nuez. Poncha la masa para sacar el aire que se haya generado y, luego, estira la masa para que te quede una sola tira de unos 3 centímetros.",
+      "Sobre una charola con papel para hornear, trenza la tira de masa. Con las cantidades mencionadas puedes hacer 2 panes medianos o bien puedes hacer uno solo más grande, cubre con un trapo seco y deja reposar en un espacio cálido para que doble en tamaño.",
+      "Cuando el pan esté formado y haya doblado en tamaño, barniza con huevo batido. Debe cubrir toda la superficie para que se dore y brille. Enseguida, agrega más nuez picada por todo el pan.",
+      "Lleva al horno a 170 °C con calor por arriba y por abajo por unos 25-30 minutos, hasta que se vea dorado por encima. Cuando esté listo deja reposar y enfriar un poco dentro del horno ya apagado o sobre una rejilla a temperatura ambiente.",
+      "Una vez listo el pan ya lo podrás servir y disfrutar con tu bebida caliente favorita. Anímate a preparar este rico pan de feria de nuez, de verdad que queda esponjoso y lleno de sabor. Además, si quieres elaborar el pan de feria sin nuez, también puedes consultar esta receta de pan de feria. Cuéntanos en los comentarios tu opinión y comparte con nosotros una fotografía del resultado final. "
+    ],
+    "notas": [
+      "Con qué acompañar el pan de feria de nuez Preparar pan puede parecer complicado, pero si sigues cada uno de los pasos podrás darte cuenta de que es muy sencillo y, además, si sigues los tips que te proporcionamos puedes obtener un pan esponjoso y delicioso. Asimismo, acompaña este pan de feria de nuez con una bebida caliente, que puede ser: -Atole de pinole-Atole de maíz-Atole de fresa-Atole con piloncillo-Atole de guayaba-Champurrado"
+    ],
+    "glosario": ["SIN GLOSARIO"]
+  },
+  {
+    "id": "Sin definir",
+    "calificacion": "5",
+    "nombre": "Sin definir",
+    "descripcion": "",
+    "dificultad": "Sin definir",
+    "duracion": "Sin definir",
+    "categoria": "Sin definir",
+    "temporada": "Sin definir",
+    "autor": "Sin definir",
+    "rendimiento": "Sin definir",
+    "metodo de coccion": "Sin definir",
+    "ingredientes": [
+      { "ingredientes": ["Sin definir"] },
+      { "gramaje": ["Sin definir"] },
+      { "unidad": ["Sin definir"] }
+    ],
+    "mise en place": ["Sin definir"],
+
+    "preparacion": ["Sin definir"],
+    "notas": ["SIN NOTAS"],
+    "glosario": ["SIN GLOSARIO"]
+  }
+]
