@@ -1,5 +1,4 @@
-import SeparadorSuperiorT from "./SeparadorSuperiorT.jsx";
-import SeparadorInferiorT from "./SeparadorInferiorT.jsx";
+import Style from "./TextShadow.module.css";
 
 const CategoriaBtn = (params) => {
   const colors = {
@@ -45,12 +44,12 @@ const CategoriaBtn = (params) => {
   return (
     
     
-    <button className='w-40 mx-2 mb-2 flex rounded-md border-none p-0 shadow-4xl hover:text-white hover:!bg-violet-950' style={backgroundBtn}>
+    <button className='w-36 mx-2 mb-2 flex rounded-md border-none p-0 shadow-4xl hover:text-white hover:!bg-violet-950' style={backgroundBtn}>
       <div className='text-white text-xl pl-1 z-10'>|</div>
-      <h5 className='items-center justify-center flex text-xs w-full'>{params.name}</h5>
-      <div className='ml-auto' style={{ borderRight: '10px solid #ffffff', borderTop: '17px solid transparent', borderBottom: '15px solid transparent', zIndex: 1 }}></div>
+      <h5 className={`${Style.textShadow_black} items-center justify-center flex text-xs w-full`}>{params.name}</h5>
+      <div className='ml-auto border-y-transparent border-solid border-y-13 border-r-10 border-white'></div>
       <div className='bg-white flex rounded-r-md'>
-        <div className='bg-[url("/public/img/newIcon.png")] w-11 bg-150' style={iconPosition}></div>
+        <div className='bg-[url("/public/img/newIcon.png")] w-9 bg-150' style={iconPosition}></div>
         <div className='text-xl pr-1 content-center' style={line}>|</div>
       </div>
     </button>
@@ -62,15 +61,13 @@ export default function Categorias() {
     
 
     <div className='w-full'>
-      <SeparadorSuperiorT />
-      
       {/*<div className='flex justify-center'>
         <div className='z-10' style={{borderRight: '10px solid #ffffff', borderTop: '15px solid transparent', borderBottom: '15px solid transparent'}}></div>*/}
-        <h4 className='px-4 pt-1 text-center drop-shadow-xl font-podkova'>CATEGORIAS</h4>
+        <h4 className={`${Style.textShadow_black} font-syne text-center pb-2`}>CATEGORIAS</h4>
         {/*<div className="z-10" style={{borderLeft: '10px solid #ffffff', borderTop: '15px solid transparent', borderBottom: '15px solid transparent'}}></div>
       </div>*/}
       
-      <div className='my-14 flex flex-wrap justify-center'>
+      <div className='w-5/6 mx-auto flex flex-wrap justify-center'>
         <CategoriaBtn name="Comida" />
         <CategoriaBtn name="Asiatico" />
         <CategoriaBtn name="Reposteria" />
@@ -82,8 +79,6 @@ export default function Categorias() {
         <CategoriaBtn name="Salsas" />
         <CategoriaBtn name="Panaderia" />
       </div>
-      
-      <SeparadorInferiorT/>
     </div>
   );
 }

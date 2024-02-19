@@ -7,16 +7,21 @@ module.exports = {
       backgroundSize: {
       'cover' : 'cover',
     },
+    width: {
+      'xl' : '36rem',
+    },
   },
     borderWidth: {
-      '15': '15px',
       '1': '1px',
-      '180' : '180px',
+      '2': '2px',
+      '10' : '10px',
+      '13' : '13px',
+      '15': '15px',
       '40' : '40px',
-      'prueba' : '280px',
+      '180' : '180px',
     },
     boxShadow: {
-      '4xl': '0px 8px 18px 0px rgba(0,0,0,0.75)',
+      '4xl': '0px 5px 10px 0px rgba(0,0,0,0.40)',
     },
     fontFamily: {
       'cinzel': ['Cinzel Decorative', 'serif'],
@@ -24,7 +29,7 @@ module.exports = {
       'crimson_pro' : ['Crimson Pro', 'serif'],
     },
     backgroundSize: {
-      '150': '150px',
+      '150': '130px',
     },
     backgroundPosition: {
       'center_56%' : 'center 46%',
