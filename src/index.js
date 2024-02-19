@@ -5,12 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Menu from './componentes/Menu';
 import Slider from './componentes/Slider';
+import SectionRecomendaciones  from './componentes/SectionRecomendaciones';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Menu />
     <Slider />
+    <SectionRecomendaciones />
     <App />
     <App />
   </React.StrictMode>

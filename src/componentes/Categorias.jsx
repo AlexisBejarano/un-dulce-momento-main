@@ -49,7 +49,7 @@ const CategoriaBtn = (params) => {
       <h5 className={`${Style.textShadow_black} items-center justify-center flex text-xs w-full`}>{params.name}</h5>
       <div className='ml-auto border-y-transparent border-solid border-y-13 border-r-10 border-white'></div>
       <div className='bg-white flex rounded-r-md'>
-        <div className='bg-[url("/public/img/newIcon.png")] w-9 bg-150' style={iconPosition}></div>
+        <div className='bg-[url("/public/img/newIcon.png")] w-9 bg-130' style={iconPosition}></div>
         <div className='text-xl pr-1 content-center' style={line}>|</div>
       </div>
     </button>
@@ -61,13 +61,13 @@ export default function Categorias() {
     
 
     <div className='w-full'>
-      {/*<div className='flex justify-center'>
-        <div className='z-10' style={{borderRight: '10px solid #ffffff', borderTop: '15px solid transparent', borderBottom: '15px solid transparent'}}></div>*/}
-        <h4 className={`${Style.textShadow_black} font-syne text-center pb-2`}>CATEGORIAS</h4>
-        {/*<div className="z-10" style={{borderLeft: '10px solid #ffffff', borderTop: '15px solid transparent', borderBottom: '15px solid transparent'}}></div>
-      </div>*/}
+      <div className='flex justify-center'>
+        <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-aa'></div>
+        <h4 className={`${Style.textShadow_black} font-syne text-center text-3xl`}>CATEGORIAS</h4>
+        <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-ab'></div>
+      </div>
       
-      <div className='w-5/6 mx-auto flex flex-wrap justify-center'>
+      <div className='w-11/12 mx-auto flex flex-wrap justify-center'>
         <CategoriaBtn name="Comida" />
         <CategoriaBtn name="Asiatico" />
         <CategoriaBtn name="Reposteria" />

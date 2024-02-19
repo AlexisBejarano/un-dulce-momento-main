@@ -29,10 +29,14 @@ module.exports = {
       'crimson_pro' : ['Crimson Pro', 'serif'],
     },
     backgroundSize: {
-      '150': '130px',
+      '130': '130px',
+      '250': '300px',
+      '35': '35px',
     },
     backgroundPosition: {
       'center_56%' : 'center 46%',
+      'aa' : '0% 50%',
+      'ab' : '100% 50%',
       'center' : 'center',
     },
   },
