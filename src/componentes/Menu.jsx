@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import Style from "./TextShadow.module.css";
+import Perfil from './Perfil.jsx';
 
 export default function Menu() {
 	return (
@@ -18,7 +19,7 @@ export default function Menu() {
 					<li><a href="#">Contacto</a></li>
 					<li><a href="#">Productos</a></li>
 				</ul>
-				<div href="#" className='bg-[url("/public/img/icon.png")] h-11 w-11 bg-35 bg-center_56% bg-purple-200 rounded-full'></div>
+				<Perfil />
 			</div>
 		</div>
 	);

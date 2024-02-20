@@ -42,8 +42,8 @@ const CategoriaBtn = (params) => {
   };
 
   return (
-    
-    
+
+
     <button className='w-36 mx-2 mb-2 flex rounded-md border-none p-0 shadow-4xl hover:text-white hover:!bg-violet-950' style={backgroundBtn}>
       <div className='text-white text-xl pl-1 z-10'>|</div>
       <h5 className={`${Style.textShadow_black} items-center justify-center flex text-xs w-full`}>{params.name}</h5>
@@ -58,26 +58,27 @@ const CategoriaBtn = (params) => {
 
 export default function Categorias() {
   return (
-    
 
-    <div className='w-full'>
-      <div className='flex justify-center'>
-        <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-aa'></div>
-        <h4 className={`${Style.textShadow_black} font-syne text-center text-3xl`}>CATEGORIAS</h4>
-        <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-ab'></div>
-      </div>
-      
-      <div className='w-11/12 mx-auto flex flex-wrap justify-center'>
-        <CategoriaBtn name="Comida" />
-        <CategoriaBtn name="Asiatico" />
-        <CategoriaBtn name="Reposteria" />
-        <CategoriaBtn name="Bebidas" />
-        <CategoriaBtn name="Ensaladas" />
-        <CategoriaBtn name="Pasteleria" />
-        <CategoriaBtn name="Desayunos" />
-        <CategoriaBtn name="Postres" />
-        <CategoriaBtn name="Salsas" />
-        <CategoriaBtn name="Panaderia" />
+    <div className="max-w-7xl backdrop-blur bg-opacity-60 bg-white py-5 top-10 relative mx-auto text-center border-b-15  border-[#21235D] shadow-4xl rounded-t-2xl">
+      <div className='w-full'>
+        <div className='flex justify-center'>
+          <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-aa'></div>
+          <h4 className={`${Style.textShadow_black} font-syne text-center text-3xl`}>CATEGORIAS</h4>
+          <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-ab'></div>
+        </div>
+
+        <div className='w-11/12 mx-auto flex flex-wrap justify-center'>
+          <CategoriaBtn name="Comida" />
+          <CategoriaBtn name="Asiatico" />
+          <CategoriaBtn name="Reposteria" />
+          <CategoriaBtn name="Bebidas" />
+          <CategoriaBtn name="Ensaladas" />
+          <CategoriaBtn name="Pasteleria" />
+          <CategoriaBtn name="Desayunos" />
+          <CategoriaBtn name="Postres" />
+          <CategoriaBtn name="Salsas" />
+          <CategoriaBtn name="Panaderia" />
+        </div>
       </div>
     </div>
   );

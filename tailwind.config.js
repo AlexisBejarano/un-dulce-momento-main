@@ -31,7 +31,7 @@ module.exports = {
     backgroundSize: {
       '130': '130px',
       '250': '300px',
-      '35': '35px',
+      '33': '33px',
     },
     backgroundPosition: {
       'center_56%' : 'center 46%',
