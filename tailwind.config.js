@@ -10,6 +10,9 @@ module.exports = {
     width: {
       'xl' : '36rem',
     },
+    padding: {
+      '390' : '390px',
+    },
   },
     borderWidth: {
       '1': '1px',
@@ -30,7 +33,8 @@ module.exports = {
     },
     backgroundSize: {
       '130': '130px',
-      '250': '300px',
+      '300': '300px',
+      '700': '700px',
       '33': '33px',
     },
     backgroundPosition: {

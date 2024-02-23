@@ -59,13 +59,14 @@ const CategoriaBtn = (params) => {
 export default function Categorias() {
   return (
 
-    <div className="max-w-7xl backdrop-blur bg-opacity-60 bg-white py-5 top-10 relative mx-auto text-center border-b-15  border-[#21235D] shadow-4xl rounded-t-2xl">
+   /* <div className="w-full backdrop-blur bg-opacity-60 bg-white py-5 relative mx-auto text-center border-b-15  border-[#21235D] shadow-4xl">*/
       <div className='w-full'>
         <div className='flex justify-center'>
-          <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-aa'></div>
-          <h4 className={`${Style.textShadow_black} font-syne text-center text-3xl`}>CATEGORIAS</h4>
-          <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-250 bg-ab'></div>
+          <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-300 bg-aa'></div>
+          <h4 className={`${Style.textShadow_black} font-syne text-center text-2xl`}>CATEGORIAS</h4>
+          <div className='bg-[url("/public/img/adorno.png")] w-48 h-9 mb-2 mx-2 bg-300 bg-ab'></div>
         </div>
+        
 
         <div className='w-11/12 mx-auto flex flex-wrap justify-center'>
           <CategoriaBtn name="Comida" />
@@ -79,7 +80,9 @@ export default function Categorias() {
           <CategoriaBtn name="Salsas" />
           <CategoriaBtn name="Panaderia" />
         </div>
+
+        <div className='h-4 w-80 mt-2 mx-auto bg-[url("/public/img/adorno.png")] bg-no-repeat bg-center_56%' style={{backgroundSize: "cover"}}></div>
       </div>
-    </div>
+    /* </div>*/
   );
 }
